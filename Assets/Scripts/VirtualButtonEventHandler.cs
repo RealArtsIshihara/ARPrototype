@@ -66,13 +66,12 @@ public class VirtualButtonEventHandler : MonoBehaviour,
                 break;
 			
 			case "playVideo":
-                mActiveMaterials.Add(m_TeapotMaterials[3]);
-					VideoPlaybackBehaviour[] videos = (VideoPlaybackBehaviour[]) FindObjectsOfType(typeof(VideoPlaybackBehaviour));
-		
+				VideoPlaybackBehaviour[] videos = (VideoPlaybackBehaviour[]) FindObjectsOfType(typeof(VideoPlaybackBehaviour));
 		        foreach (VideoPlaybackBehaviour video in videos)
-		        {
-		              video.VideoPlayer.Play(false, 0);
+				{  
+					video.VideoPlayer.Play(false, 0);
 		        }
+		        
                 break;
         }
 
@@ -111,7 +110,11 @@ public class VirtualButtonEventHandler : MonoBehaviour,
                 break;
 			
 			case "playVideo":
-                mActiveMaterials.Remove(m_TeapotMaterials[3]);
+				VideoPlaybackBehaviour[] videos = (VideoPlaybackBehaviour[]) FindObjectsOfType(typeof(VideoPlaybackBehaviour));
+                 foreach (VideoPlaybackBehaviour video in videos)
+				{  
+					video.VideoPlayer.Stop();
+		        }
                 break;
         }
 
