@@ -9,6 +9,7 @@
       <VirtualButton name="green" rectangle="76.57 -53.52 109.50 -65.87" enabled="true" sensitivity="low" />
       <VirtualButton name="red" rectangle="-108.68 -53.52 -75.75 -65.87" enabled="true" sensitivity="low"/>
       <VirtualButton name="yellow" rectangle="14.82 -53.52 47.75 -65.87" enabled="true" sensitivity="low" />
+	  <VirtualButton name="playVideo" rectangle="14.82 -53.52 47.75 -65.87" enabled="true" sensitivity="low" />
     </ImageTarget>
   </Tracking>
 </QCARConfig>

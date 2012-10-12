@@ -62,6 +62,10 @@ public class VirtualButtonEventHandler : MonoBehaviour,
             case "green":
                 mActiveMaterials.Add(m_TeapotMaterials[3]);
                 break;
+			
+			case "playVideo":
+                mActiveMaterials.Add(m_TeapotMaterials[3]);
+                break;
         }
 
         // Apply the new material:
@@ -96,6 +100,10 @@ public class VirtualButtonEventHandler : MonoBehaviour,
 
             case "green":
                 mActiveMaterials.Remove(m_TeapotMaterials[3]);
+                break;
+			
+			case "playVideo":
+                mActiveMaterials.Add(m_TeapotMaterials[3]);
                 break;
         }
 
