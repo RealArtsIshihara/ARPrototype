@@ -1,0 +1,6 @@
+Vuforia (TM) sample applications provided in source code form ("Sample Code") are distributed as part of the Vuforia Software Development Kit and/or Vuforia Extension for Unity (collectively, the "Vuforia SDK") and are also available as a separate download at http://ar.qualcomm.at/qdevnet/. This license.txt file is included in such Sample Code download.
+
+The Sample Code in all cases may only be used in conjunction with use of the Vuforia SDK, and is subject in all respects to all of the terms and conditions of the Vuforia SDK License Agreement, which may be found at http://ar.qualcomm.at/legal/license/.
+ 
+By retaining or using the Sample Code in any manner, you confirm your agreement to all the terms and conditions of the Vuforia SDK License Agreement.  If you do not agree to all the terms and conditions of the Vuforia SDK License Agreement, then you may not retain or in any manner use any of the Sample Code.
+
