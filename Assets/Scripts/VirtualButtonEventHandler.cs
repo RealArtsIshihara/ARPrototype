@@ -6,6 +6,8 @@
 
 using UnityEngine;
 using System.Collections.Generic;
+using System.Collections;
+
 
 public class VirtualButtonEventHandler : MonoBehaviour,
                                          IVirtualButtonEventHandler
@@ -65,6 +67,12 @@ public class VirtualButtonEventHandler : MonoBehaviour,
 			
 			case "playVideo":
                 mActiveMaterials.Add(m_TeapotMaterials[3]);
+					VideoPlaybackBehaviour[] videos = (VideoPlaybackBehaviour[]) FindObjectsOfType(typeof(VideoPlaybackBehaviour));
+		
+		        foreach (VideoPlaybackBehaviour video in videos)
+		        {
+		              video.VideoPlayer.Play(false, 0);
+		        }
                 break;
         }
 
@@ -103,7 +111,7 @@ public class VirtualButtonEventHandler : MonoBehaviour,
                 break;
 			
 			case "playVideo":
-                mActiveMaterials.Add(m_TeapotMaterials[3]);
+                mActiveMaterials.Remove(m_TeapotMaterials[3]);
                 break;
         }
 
