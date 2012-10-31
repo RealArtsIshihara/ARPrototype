@@ -1,0 +1,899 @@
+TUnity-iPhone
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Info.plist Info.plist
+cCpResource Data/Raw/QCAR DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/QCAR
+cCompileXIB /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/MainWindow.xib
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default.png Default.png
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon.png Icon.png
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-568h@2x.png Default-568h@2x.png
+cPhaseScriptExecution "Run Script" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default@2x.png Default@2x.png
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon@2x.png Icon@2x.png
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape.png Default-Landscape.png
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait.png Default-Portrait.png
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape@2x.png Default-Landscape@2x.png
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait@2x.png Default-Portrait@2x.png
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-72.png Icon-72.png
+cCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-144.png Icon-144.png
+cProcessPCH++ /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-ggdzcscucoiwglhggtyvbrrwhmyd/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Assembly-CSharp.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/RegisterClasses.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Mono.Security.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/System.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target2AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/AppController.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/main.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/UnityEngine.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/mscorlib.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/RegisterMonoModules.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_Profiler.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_Profiler.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_GlesSupport.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_GlesSupport.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica normal armv7
+cGenerateDSYMFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app.dSYM /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica
+cProcessProductPackaging "/Users/alejandroazuola/Library/MobileDevice/Provisioning Profiles/A22E47CD-8F87-42F8-81A8-B107A2CF0CCD.mobileprovision" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/alejandroazuola/Library/MobileDevice/Provisioning Profiles/A22E47CD-8F87-42F8-81A8-B107A2CF0CCD.mobileprovision" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/embedded.mobileprovision
+cTouch /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica.xcent
+cCodeSign /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000503C83D40000000000000132
+t1346143188
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist
+c00000000506CA75A0000000000000094
+t1349298010
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+c00000000506CA75A0000000000000096
+t1349298010
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000506CA75B000000000036C800
+t1349298011
+s3590144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000506CA75C00000000006ABBE0
+t1349298012
+s6994912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000506CA75B00000000002C74D0
+t1349298011
+s2913488
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000506CA75C0000000000322740
+t1349298012
+s3286848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000506CA75C0000000000114570
+t1349298012
+s1131888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000506CA75C00000000001692A0
+t1349298012
+s1479328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c00000000506CA75C00000000001D3F40
+t1349298012
+s1916736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000506CA75C0000000000041310
+t1349298012
+s267024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000506CA75D0000000000629C80
+t1349298013
+s6462592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000506CA75C00000000000015F7
+t1349298012
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c00000000506CA75D0000000000579AA0
+t1349298013
+s5741216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000506CA75D000000000056CC90
+t1349298013
+s5688464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c00000000506CA75D000000000005C560
+t1349298013
+s378208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000506CA75D0000000000024190
+t1349298013
+s147856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000506CA75D0000000000359720
+t1349298013
+s3512096
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000506CA75D00000000000A8A50
+t1349298013
+s690768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000506CA75D00000000000CAF00
+t1349298013
+s831232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000506CA75D0000000000000E8D
+t1349298013
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000506CA76000000000011BA850
+t1349298016
+s18589776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/iAd.framework/iAd
+c00000000506CA75C000000000005E7C0
+t1349298012
+s387008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/lib/libiconv.2.dylib
+c00000000506CA76400000000001F4F00
+t1349298020
+s2051840
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/AppController.mm
+c0000000050907534000000000000B4F0
+t1351644468
+s46320
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/MainWindow.xib
+c0000000050451E2C0000000000001DC6
+t1346706988
+s7622
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/RegisterClasses.cpp
+c0000000050451E2C0000000000000097
+t1346706988
+s151
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_GlesSupport.cpp
+c0000000050451E2C00000000000029B7
+t1346706988
+s10679
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_Profiler.cpp
+c0000000050451E2C0000000000002ECB
+t1346706988
+s11979
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target2AppDelegate.m
+c0000000050451E2C00000000000001E6
+t1346706988
+s486
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target_Prefix.pch
+c0000000050451E2C000000000000018D
+t1346706988
+s397
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/main.mm
+c0000000050451E2C00000000000002C3
+t1346706988
+s707
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Data/Raw/QCAR
+c000000005090751100000000000000CC
+t1351644433
+s204
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-568h@2x.png
+c000000005055D3FE0000000000028CE7
+t1347802110
+s167143
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Landscape.png
+c0000000050451E2C000000000000EA57
+t1346706988
+s59991
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Landscape@2x.png
+c0000000050451E2C0000000000031097
+t1346706988
+s200855
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Portrait.png
+c0000000050451E2C000000000000E5B8
+t1346706988
+s58808
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Portrait@2x.png
+c0000000050451E2C000000000002F82A
+t1346706988
+s194602
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default.png
+c0000000050451E2C000000000000FF02
+t1346706988
+s65282
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default@2x.png
+c0000000050451E2C0000000000031BCA
+t1346706988
+s203722
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch.pth
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch.pth
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-ggdzcscucoiwglhggtyvbrrwhmyd/iPhone_target_Prefix.pch.pth
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica.xcent
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AudiCenterCostaRica.LinkFileList
+c00000000509075400000000000000962
+t1351644480
+s2402
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_GlesSupport.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_Profiler.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh
+c000000005090754000000000000000BD
+t1351644480
+s189
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app.dSYM
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape@2x.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait@2x.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default@2x.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-144.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-72.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon@2x.png
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Info.plist
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/MainWindow.nib
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/PkgInfo
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/QCAR
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/ResourceRules.plist
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon-144.png
+c0000000050451E2C00000000000044AE
+t1346706988
+s17582
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon-72.png
+c0000000050451E2C00000000000012FA
+t1346706988
+s4858
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon.png
+c0000000050451E2C0000000000000E62
+t1346706988
+s3682
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon@2x.png
+c0000000050451E2C0000000000002396
+t1346706988
+s9110
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Assembly-CSharp.dll.s
+c000000005090750E0000000000154711
+t1351644430
+s1394449
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Mono.Security.dll.s
+c000000005090750E00000000002592B0
+t1351644430
+s2462384
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/RegisterMonoModules.cpp
+c000000005090751100000000000441A3
+t1351644433
+s278947
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/System.dll.s
+c000000005090750F00000000007C1556
+t1351644431
+s8131926
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/UnityEngine.dll.s
+c000000005090750E0000000000600306
+t1351644430
+s6292230
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/libQCAR.a
+c000000004F3E8BFE000000000052D900
+t1329499134
+s5429504
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/libQCARUnityPlayer.a
+c000000004F3E8C020000000000051588
+t1329499138
+s333192
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/libiPhone-lib.a
+c000000005060381E00000000141A3B30
+t1348483102
+s337263408
+
+N/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/mscorlib.dll.s
+c000000005090751100000000011AADC7
+t1351644433
+s18525639
+
+N/Users/alejandroazuola/Library/MobileDevice/Provisioning Profiles/A22E47CD-8F87-42F8-81A8-B107A2CF0CCD.mobileprovision
+c00000000508802960000000000001E4F
+t1351090838
+s7759
+
+NInfo.plist
+c0000000050907511000000000000058D
+t1351644433
+s1421
+
+CBuild AST from /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/AppController.mm
+r0
+
+CBuild AST from /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/RegisterClasses.cpp
+r0
+
+CBuild AST from /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_GlesSupport.cpp
+r0
+
+CBuild AST from /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_Profiler.cpp
+r0
+
+CBuild AST from /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target2AppDelegate.m
+r0
+
+CBuild AST from /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/main.mm
+r0
+
+CBuild AST from /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/RegisterMonoModules.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd507bac0ac40b641^bdc2e2c0ac40b641^---0#1#0#--18"Check dependencies36"8CBBD782-FEC9-4713-9FB9-FA992434D4E6-
+
+CCodeSign /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app
+s373337311.649766
+e373337314.257980
+r1
+xCodeSign
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"CodeSign DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app9068a6dfac40b641^f60b42e2ac40b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/0000000000000000^1038"CodeSign DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 9b62bff3729827739782638eaa0ebd0d66b3b234 --resource-rules=/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/ResourceRules.plist --entitlements /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica.xcent /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app36"FED19A07-3648-468A-9AE5-0F8CF25DA05D-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/AppController.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.600378
+e373337282.959268
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/AppController.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/AppController.mm9dda99c2ac40b641^da92f5c2ac40b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/AppController.mm0000000000000000^4264"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o Classes/AppController.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -fno-objc-exceptions -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -include /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/AppController.mm -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AppController.o36"037128DD-3A75-4206-801C-648B5EBF73DD-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Assembly-CSharp.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.184979
+e373337282.599071
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Assembly-CSharp.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Assembly-CSharp.dll.sf27b2fc2ac40b641^626899c2ac40b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Assembly-CSharp.dll.s0000000000000000^3573"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o Libraries/Assembly-CSharp.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x assembler-with-cpp -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Assembly-CSharp.dll.s -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Assembly-CSharp.dll.o36"6F90F82F-302B-4B41-9ACB-B795D10746D2-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Mono.Security.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.348029
+e373337283.051844
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Mono.Security.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Mono.Security.dll.s9c3059c2ac40b641^d8450dc3ac40b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Mono.Security.dll.s0000000000000000^3561"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o Libraries/Mono.Security.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x assembler-with-cpp -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/Mono.Security.dll.s -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/Mono.Security.dll.o36"71A0928A-2E2A-4231-B114-BE2512CE2902-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/RegisterClasses.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.281128
+e373337282.542834
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/RegisterClasses.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/RegisterClasses.cpp8b1a48c2ac40b641^b4028bc2ac40b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/RegisterClasses.cpp0000000000000000^3898"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o Classes/RegisterClasses.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -include /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/RegisterClasses.cpp -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterClasses.o36"8C603CA6-382A-4711-8CC0-1BF8F2B7A8A6-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/RegisterMonoModules.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373337283.053179
+e373337283.250001
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/RegisterMonoModules.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/RegisterMonoModules.cpp61c10dc3ac40b641^9bff3fc3ac40b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/RegisterMonoModules.cpp0000000000000000^3926"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o Libraries/RegisterMonoModules.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -include /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/RegisterMonoModules.cpp -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/RegisterMonoModules.o36"0DAF7635-C2BB-48CF-984D-F80F04583A4A-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/System.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.544122
+e373337284.362520
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/System.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/System.dll.sdb6d8bc2ac40b641^3ece5cc4ac40b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/System.dll.s0000000000000000^3519"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o Libraries/System.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x assembler-with-cpp -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/System.dll.s -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/System.dll.o36"1DCFC97A-E7C7-46B2-A059-420313DF11FB-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/UnityEngine.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.669746
+e373337283.999421
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/UnityEngine.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/UnityEngine.dll.s0f98abc2ac40b641^30daffc3ac40b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/UnityEngine.dll.s0000000000000000^3549"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o Libraries/UnityEngine.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x assembler-with-cpp -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/UnityEngine.dll.s -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/UnityEngine.dll.o36"C1F5E73D-5A81-440C-8157-26A11A34AE84-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_GlesSupport.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_GlesSupport.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373337283.380948
+e373337283.521830
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_GlesSupport.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_GlesSupport.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_GlesSupport.cppc1ab61c3ac40b641^2aa785c3ac40b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_GlesSupport.cpp0000000000000000^3916"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_GlesSupport.o Classes/iPhone_GlesSupport.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -include /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_GlesSupport.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_GlesSupport.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_GlesSupport.cpp -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_GlesSupport.o36"CEC549FE-737A-4E4B-A5F2-FDB69DE47611-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_Profiler.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_Profiler.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373337283.251357
+e373337283.379645
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_Profiler.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_Profiler.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_Profiler.cpp767040c3ac40b641^cc4061c3ac40b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_Profiler.cpp0000000000000000^3898"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_Profiler.o Classes/iPhone_Profiler.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -include /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_Profiler.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_Profiler.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_Profiler.cpp -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_Profiler.o36"01052779-B77B-48AA-A752-3E427352B187-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target2AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.544130
+e373337282.635168
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target2AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target2AppDelegate.m8b708bc2ac40b641^709aa2c2ac40b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target2AppDelegate.m0000000000000000^4173"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o Classes/iPhone_target2AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -fno-objc-exceptions -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -include /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-ggdzcscucoiwglhggtyvbrrwhmyd/iPhone_target_Prefix.pch -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target2AppDelegate.m -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/iPhone_target2AppDelegate.o36"97DED21B-D453-4E15-B402-C799E92E4C5C-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/main.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.636531
+e373337282.668117
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/main.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/main.mm9225a3c2ac40b641^8509abc2ac40b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/main.mm0000000000000000^4210"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o Classes/main.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -fno-objc-exceptions -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -include /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/main.mm -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/main.o36"5D4F3951-87EE-42AC-A8DD-EF1EC5F964A0-
+
+CCompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/mscorlib.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.960563
+e373337286.069838
+r1
+xCompileC
+xDerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/mscorlib.dll.s
+xnormal
+xarmv7
+xassembler-with-cpp
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/mscorlib.dll.sf208f6c2ac40b641^37e211c6ac40b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/mscorlib.dll.s0000000000000000^3531"CompileC DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o Libraries/mscorlib.dll.s normal armv7 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x assembler-with-cpp -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.d --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries/mscorlib.dll.s -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/mscorlib.dll.o36"EA50F85A-4F58-4F69-AF9D-85099BAE9D79-
+
+CCompileXIB /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/MainWindow.xib
+s373337280.929061
+e373337280.967206
+r1
+xCompileXIB
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/MainWindow.xib3eecedc0ac40b641^a3b0f7c0ac40b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/MainWindow.xib0000000000000000^907"CompileXIB Classes/MainWindow.xib    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/MainWindow.nib /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/MainWindow.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk36"2734F858-FE00-404A-B134-C5D90243D445-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-568h@2x.png Default-568h@2x.png
+s373337280.933775
+e373337281.284757
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-568h@2x.png
+xDefault-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-568h@2x.png Default-568h@2x.png5f29efc0ac40b641^75e848c1ac40b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-568h@2x.png0000000000000000^726"CopyPNGFile "DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-568h@2x.png" "Default-568h@2x.png"    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-568h@2x.png" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-568h@2x.png"36"E74440CB-BF3D-4E6D-8A0D-8E24C18460CA-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape.png Default-Landscape.png
+s373337281.470565
+e373337281.734394
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape.png Default-Landscape.pngca8b78c1ac40b641^b401bcc1ac40b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Landscape.png0000000000000000^726"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape.png Default-Landscape.png    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Landscape.png /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape.png36"088FDE57-896B-4936-8A36-87974816E4BF-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape@2x.png Default-Landscape@2x.png
+s373337281.606093
+e373337282.163756
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape@2x.png
+xDefault-Landscape@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape@2x.png Default-Landscape@2x.png793e9bc1ac40b641^4eec29c2ac40b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Landscape@2x.png0000000000000000^746"CopyPNGFile "DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape@2x.png" "Default-Landscape@2x.png"    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Landscape@2x.png" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Landscape@2x.png"36"68D5FF3C-0FFF-44EE-9B66-0C0D89838E87-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait.png Default-Portrait.png
+s373337281.470926
+e373337281.744202
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait.png
+xDefault-Portrait.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait.png Default-Portrait.png999e78c1ac40b641^8c84bec1ac40b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Portrait.png0000000000000000^722"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait.png Default-Portrait.png    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Portrait.png /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait.png36"8E01E093-1661-49DB-8906-3FE1AE02DC35-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait@2x.png Default-Portrait@2x.png
+s373337281.735681
+e373337282.279779
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait@2x.png
+xDefault-Portrait@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait@2x.png Default-Portrait@2x.png6e6abcc1ac40b641^0ea047c2ac40b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Portrait@2x.png0000000000000000^742"CopyPNGFile "DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait@2x.png" "Default-Portrait@2x.png"    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default-Portrait@2x.png" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default-Portrait@2x.png"36"8E8DA36A-1E28-4D9B-AC8E-680F4862EFFC-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default.png Default.png
+s373337280.929212
+e373337281.106678
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default.png
+xDefault.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default.png Default.png9df1edc0ac40b641^b85a1bc1ac40b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default.png0000000000000000^686"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default.png Default.png    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default.png /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default.png36"89226598-E5E7-471C-B7C7-0AF11B1E0219-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default@2x.png Default@2x.png
+s373337281.470548
+e373337281.925456
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default@2x.png
+xDefault@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default@2x.png Default@2x.pngca8b78c1ac40b641^89ebecc1ac40b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default@2x.png0000000000000000^706"CopyPNGFile "DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default@2x.png" "Default@2x.png"    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Default@2x.png" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Default@2x.png"36"DF06447A-60DE-48F0-8162-44F649F162DD-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-144.png Icon-144.png
+s373337281.802529
+e373337281.850576
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-144.png
+xIcon-144.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-144.png Icon-144.png6a89cdc1ac40b641^cfbfd9c1ac40b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon-144.png0000000000000000^690"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-144.png Icon-144.png    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon-144.png /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-144.png36"C13B3AFA-5E36-4FF0-8679-941AA2A51B59-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-72.png Icon-72.png
+s373337281.745545
+e373337281.801216
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-72.png
+xIcon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-72.png Icon-72.png95f2bec1ac40b641^e31ccdc1ac40b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon-72.png0000000000000000^686"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-72.png Icon-72.png    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon-72.png /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon-72.png36"3E44C132-72F9-4900-B00D-47428943A7F9-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon.png Icon.png
+s373337280.929245
+e373337280.991246
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon.png
+xIcon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon.png Icon.png83f7edc0ac40b641^7fc2fdc0ac40b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon.png0000000000000000^674"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon.png Icon.png    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon.png /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon.png36"0F8616E3-411E-4F13-B13F-656EB2092EFA-
+
+CCopyPNGFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon@2x.png Icon@2x.png
+s373337281.470559
+e373337281.604760
+r1
+xCopyPNGFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon@2x.png
+xIcon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CopyPNGFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon@2x.png Icon@2x.png268e78c1ac40b641^bfd19ac1ac40b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon@2x.png0000000000000000^694"CopyPNGFile "DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon@2x.png" "Icon@2x.png"    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Icon@2x.png" "/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Icon@2x.png"36"698CCEF1-8643-46A6-9613-553BBADC9E3E-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/ResourceRules.plist
+s373337280.901629
+e373337280.919108
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+xDerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/ResourceRules.pliste5b6e9c0ac40b641^30bbebc0ac40b641^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/ResourceRules.plist000000000080d041^836"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/ResourceRules.plist    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app36"3AEC5897-3749-4896-8475-57CB3A447213-
+
+CCpResource Data/Raw/QCAR DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/QCAR
+s373337280.928591
+e373337280.932494
+r1
+xCpResource
+xData/Raw/QCAR
+xDerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/QCAR
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/QCARa7ccedc0ac40b641^bcceeec0ac40b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/QCAR000000000080d041^668"CpResource Data/Raw/QCAR DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/QCAR    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Data/Raw/QCAR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app36"EE79884D-4AEB-441C-BCFD-D203211F231E-
+
+CGenerateDSYMFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app.dSYM /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica
+s373337291.812694
+e373337311.392910
+r1
+xGenerateDSYMFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app.dSYM
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Generating /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app.dSYM191dd0cbac40b641^3d9864dfac40b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app.dSYM000000000080d041^810"GenerateDSYMFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app.dSYM DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app.dSYM36"1B426811-022D-47BC-8890-5FB2703910A5-
+
+CLd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica normal armv7
+s373337286.076341
+e373337291.805915
+r1
+xLd
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Link /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRicac7a013c6ac40b641^5952cecbac40b641^---0#0#0#--1918"Ld DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica normal armv7    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -L/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica -L/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -filelist /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AudiCenterCostaRica.LinkFileList -dead_strip -all_load -weak_framework CoreMotion -weak-lSystem -fobjc-link-runtime -miphoneos-version-min=3.1.3 -framework Security -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework OpenAL -liconv.2 -lQCAR -lQCARUnityPlayer -liPhone-lib -framework AudioToolbox -framework CFNetwork -framework MediaPlayer -framework CoreLocation -framework SystemConfiguration -weak_framework iAd -framework CoreMedia -framework CoreVideo -weak_framework AVFoundation -framework CoreGraphics -weak_framework CoreMotion -weak_framework GameKit -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/AudiCenterCostaRica36"A98960D6-7DE7-4439-93E2-01FD387858D9-
+
+CPhaseScriptExecution "Run Script" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh
+s373337281.292409
+e373337281.462365
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'2cb64dc1ac40b641^925c76c1ac40b641^---0#0#0#--23053"PhaseScriptExecution "Run Script" DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER alejandroazuola    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv7    setenv ARCHS_STANDARD_32_64_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_32_BIT "armv7 armv7s"    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv7 armv7s"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products    setenv BUILD_ROOT /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products    setenv CACHE_ROOT /var/folders/hb/bjw4chn54pg887c32_6qz8_00000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/hb/bjw4chn54pg887c32_6qz8_00000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/hb/bjw4chn54pg887c32_6qz8_00000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products    setenv CONFIGURATION_TEMP_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos    setenv CONTENTS_FOLDER_PATH AudiCenterCostaRica.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH AudiCenterCostaRica.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Unity-iPhone.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME AudiCenterCostaRica.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH AudiCenterCostaRica.app/Executables    setenv EXECUTABLE_FOLDER_PATH AudiCenterCostaRica.app    setenv EXECUTABLE_NAME AudiCenterCostaRica    setenv EXECUTABLE_PATH AudiCenterCostaRica.app/AudiCenterCostaRica    setenv FILE_LIST /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH AudiCenterCostaRica.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME AudiCenterCostaRica.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_CPP_EXCEPTIONS NO    setenv GCC_ENABLE_CPP_RTTI NO    setenv GCC_ENABLE_OBJC_EXCEPTIONS NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Classes/iPhone_target_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_USE_INDIRECT_FUNCTION_CALLS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include\" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH AudiCenterCostaRica.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH AudiCenterCostaRica.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/Unity-iPhone.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER alejandroazuola    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/Unity-iPhone.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH AudiCenterCostaRica.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-LinkMap-normal-armv7.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products\"  \"/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica\" \"/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal/armv7/AudiCenterCostaRica.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH AudiCenterCostaRica.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12C60    setenv MAC_OS_X_VERSION_ACTUAL 1082    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0802    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Objects-normal    setenv OBJROOT /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS -mno-thumb    setenv OTHER_CPLUSPLUSFLAGS -mno-thumb    setenv OTHER_LDFLAGS "-all_load -weak_framework CoreMotion -weak-lSystem"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH AudiCenterCostaRica.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS "objective-c c++ objective-c++"    setenv PKGINFO_FILE_PATH /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/PkgInfo    setenv PKGINFO_PATH AudiCenterCostaRica.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH armv7    setenv PLATFORM_PRODUCT_BUILD_VERSION 10A403    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH AudiCenterCostaRica.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH AudiCenterCostaRica.app/PrivateHeaders    setenv PRODUCT_NAME AudiCenterCostaRica    setenv PRODUCT_SETTINGS_PATH /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Unity-iPhone    setenv PROJECT_DERIVED_FILE_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/DerivedSources    setenv PROJECT_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PROJECT_FILE_PATH /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Unity-iPhone.xcodeproj    setenv PROJECT_NAME Unity-iPhone    setenv PROJECT_TEMP_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH AudiCenterCostaRica.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH AudiCenterCostaRica.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk    setenv SDK_NAME iphoneos6.0    setenv SDK_PRODUCT_BUILD_VERSION 10A403    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH AudiCenterCostaRica.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH AudiCenterCostaRica.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv SRCROOT /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME Unity-iPhone    setenv TARGET_BUILD_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products    setenv TARGET_NAME Unity-iPhone    setenv TARGET_TEMP_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build    setenv TEMP_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build    setenv TEMP_FILES_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build    setenv TEMP_FILE_DIR /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build    setenv TEMP_ROOT /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH AudiCenterCostaRica.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER alejandroazuola    setenv USER_APPS_DIR /Users/alejandroazuola/Applications    setenv USER_LIBRARY_DIR /Users/alejandroazuola/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv7 armv7s"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH AudiCenterCostaRica.app/version.plist    setenv VERSION_INFO_BUILDER alejandroazuola    setenv VERSION_INFO_FILE AudiCenterCostaRica_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:AudiCenterCostaRica  PROJECT:Unity-iPhone-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME AudiCenterCostaRica.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4G1004    setenv XCODE_VERSION_ACTUAL 0451    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0450    setenv YACC yacc    /bin/sh -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/Script-83D0C1FB0E6C8D5900EBCE5D.sh36"7B792736-AC3E-4A73-8667-EA28D3CDC006-
+
+CProcessInfoPlistFile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Info.plist Info.plist
+s373337280.901865
+e373337280.920599
+r1
+xProcessInfoPlistFile
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistd6c9e9c0ac40b641^01beebc0ac40b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Info.plist0000000000000000^914"ProcessInfoPlistFile DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Info.plist Info.plist    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/ResourceRules.plist -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/Info.plist36"49565E71-DED8-4BBC-954C-173448782AB7-
+
+CProcessPCH /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-ggdzcscucoiwglhggtyvbrrwhmyd/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373337281.926810
+e373337282.346581
+r1
+xProcessPCH
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-ggdzcscucoiwglhggtyvbrrwhmyd/iPhone_target_Prefix.pch.pth
+xClasses/iPhone_target_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Classes/iPhone_target_Prefix.pch236bedc1ac40b641^edb958c2ac40b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target_Prefix.pch0000000000000000^3945"ProcessPCH DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-ggdzcscucoiwglhggtyvbrrwhmyd/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -fno-objc-exceptions -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-ggdzcscucoiwglhggtyvbrrwhmyd/iPhone_target_Prefix.pch.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target_Prefix.pch -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-ggdzcscucoiwglhggtyvbrrwhmyd/iPhone_target_Prefix.pch.pth -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-ggdzcscucoiwglhggtyvbrrwhmyd/iPhone_target_Prefix.pch.d36"9CFA74E2-6CBE-4D01-82BF-4C7CECD8C203-
+
+CProcessPCH /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Index/PrecompiledHeaders/iPhone_target_Prefix-bhmxrjldleoooccgcgkhdxxtygyc_ast/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373337281.851901
+e373337282.542920
+r1
+xProcessPCH++
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch.pth
+xClasses/iPhone_target_Prefix.pch
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Classes/iPhone_target_Prefix.pch473bdac1ac40b641^f7068bc2ac40b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target_Prefix.pch0000000000000000^4108"ProcessPCH++ DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -fno-objc-exceptions -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target_Prefix.pch -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch.pth -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-aoqmhgglrsfpmpdajkzjgkcmdept/iPhone_target_Prefix.pch.d36"0BD9D334-00C3-464B-BAE6-2F1B93DBE266-
+
+CProcessPCH++ /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373337282.165092
+e373337282.183635
+r1
+xProcessPCH++
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch.pth
+xClasses/iPhone_target_Prefix.pch
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Classes/iPhone_target_Prefix.pchc7672ac2ac40b641^b1162fc2ac40b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target_Prefix.pch0000000000000000^3728"ProcessPCH++ DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch armv7 -fmessage-length=0 -Wno-trigraphs -fno-exceptions -fno-rtti -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=3.1.3 -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-generated-files.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-own-target-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-all-target-headers.hmap -iquote /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica-project-headers.hmap -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources/armv7 -I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/DerivedSources -F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products -mno-thumb --serialize-diagnostics /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch.dia -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target_Prefix.pch -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch.pth -MMD -MT dependencies -MF /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/PrecompiledHeaders/iPhone_target_Prefix-dcaxvvwyrvybdhegveyxdwvbkjdt/iPhone_target_Prefix.pch.d36"6797B518-97F0-4865-A781-3FF70E5C989C-
+
+CProcessPCH++ /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Index/PrecompiledHeaders/iPhone_target_Prefix-fqvfowovszwxvjbeowppqtsmcmuq_ast/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Index/PrecompiledHeaders/iPhone_target_Prefix-gmibzfusrdvaqnfbyuvbzqwzqluu_ast/iPhone_target_Prefix.pch.pth Classes/iPhone_target_Prefix.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/alejandroazuola/Library/MobileDevice/Provisioning Profiles/A22E47CD-8F87-42F8-81A8-B107A2CF0CCD.mobileprovision" /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/embedded.mobileprovision
+s373337311.588994
+e373337311.618356
+r1
+xProcessProductPackaging
+x/Users/alejandroazuola/Library/MobileDevice/Provisioning Profiles/A22E47CD-8F87-42F8-81A8-B107A2CF0CCD.mobileprovision
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection233"ProcessProductPackaging "/Users/alejandroazuola/Library/MobileDevice/Provisioning Profiles/A22E47CD-8F87-42F8-81A8-B107A2CF0CCD.mobileprovision" DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/embedded.mobileprovision49d996dfac40b641^514c9edfac40b641^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/embedded.mobileprovision0000000000000000^804"ProcessProductPackaging "/Users/alejandroazuola/Library/MobileDevice/Provisioning Profiles/A22E47CD-8F87-42F8-81A8-B107A2CF0CCD.mobileprovision" DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/embedded.mobileprovision    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/alejandroazuola/Library/MobileDevice/Provisioning Profiles/A22E47CD-8F87-42F8-81A8-B107A2CF0CCD.mobileprovision" -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app/embedded.mobileprovision36"84928ED4-3D8E-422B-966D-30FC6A1BE36D-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica.xcent
+s373337311.639713
+e373337311.642043
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection268"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica.xcent52d6a3dfac40b641^dd5ca4dfac40b641^---0#0#0#-19%DVTDocumentLocation2@202"file://localhost/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica.xcent000000000080d041^900"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica.xcent    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Intermediates/Unity-iPhone.build/Debug-iphoneos/Unity-iPhone.build/AudiCenterCostaRica.xcent36"00FD7740-D38D-45B9-9C77-28EA09C4302F-
+
+CTouch /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app
+s373337311.626243
+e373337311.631802
+r1
+xTouch
+x/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Touch /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app9066a0dfac40b641^5ebea1dfac40b641^---0#0#0#--477"Touch DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app    cd /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/AudiCenterCostaRica.app36"227BA2AD-2CDB-4FA0-8AF3-AE4CF5E89ADC-
+

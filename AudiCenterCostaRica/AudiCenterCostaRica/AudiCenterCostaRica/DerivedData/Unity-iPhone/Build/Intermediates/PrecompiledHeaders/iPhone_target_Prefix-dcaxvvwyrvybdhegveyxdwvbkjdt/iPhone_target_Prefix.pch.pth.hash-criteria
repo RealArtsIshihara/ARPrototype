@@ -1,0 +1,25 @@
+Contents of /Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Classes/iPhone_target_Prefix.pch
+4.1 (tags/Apple/clang-421.11.66) (based on LLVM 3.1svn)
+arm-apple-darwin12.2.0
+-x
+c++
+-arch
+armv7
+-fmessage-length=0
+-fno-exceptions
+-fno-rtti
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+-g
+-fvisibility=hidden
+-fvisibility-inlines-hidden
+-miphoneos-version-min=3.1.3
+-iquote
+-iquote
+-I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products/include
+-I/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/Libraries
+-F/Users/alejandroazuola/AudiCenterCostaRica/AudiCenterCostaRica/DerivedData/Unity-iPhone/Build/Products
+-mno-thumb
+SDK_PRODUCT_BUILD_VERSION=10A403
